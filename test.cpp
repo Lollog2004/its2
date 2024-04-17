@@ -6,3 +6,5 @@ non funziona
 ora forse
 si
 Gioco
+casco
+gegg
