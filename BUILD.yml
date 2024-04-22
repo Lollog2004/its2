@@ -11,6 +11,6 @@ jobs:
     - name: Install GCC
       run: sudo apt-get install gcc
     - name: Compile
-      run: gcc -o mioprogramma mioprogramma.c
+      run: gcc -o mioprogramma MioProgramma.c
     - name: Run
       run: ./mioprogramma
